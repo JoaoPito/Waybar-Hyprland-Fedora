@@ -64,6 +64,6 @@ It does not count how many workspaces are opened.
 ```
 
 Those 2 modules combined results in:
-![Screenchot](../main/screenshot.png)
+![Screenshot](../main/screenshot.png)
 
 (I'm using Catpuccin mocha color style)
